@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Turning ideas into code since day one<br>📚 Learning: Advanced React & Django<br>🎯 Goal: Build real-world solutions with tech<br>🎲 Fun fact: Life’s like a game—starting with random stats and leveling up along the way</p>
+<ul align="left">
+  <li>✨ Turning ideas into code since day one</li>
+  <li>📚 Learning: Advanced React & Django</li>
+  <li>🎯 Goal: Build real-world solutions with tech</li>
+  <li>🎲 Fun fact: Life’s like a game—starting with random stats and leveling up along the way</li>
+ </ul>
 
 ###
 
